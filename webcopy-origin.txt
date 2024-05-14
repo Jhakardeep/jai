@@ -1,0 +1,64 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\npm\bootstrap@5.0.0-alpha1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.7.1.slim.js
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\jquery-3.7.1.slim.js
+Content Type: application/javascript
+
+Uri: https://www95schwab.z13.web.core.windows.net/
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\index.htm
+Content Type: text/html
+
+Uri: https://www95schwab.z13.web.core.windows.net/img/img1.jpg
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\img\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www95schwab.z13.web.core.windows.net/img/img2.jpg
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\img\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://www95schwab.z13.web.core.windows.net/img/img3.jpg
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\img\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://www95schwab.z13.web.core.windows.net/img/Login_Background.jpg
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\img\Login_Background.jpg
+Content Type: image/jpeg
+
+Uri: https://www95schwab.z13.web.core.windows.net/img/logo.png
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\img\logo.png
+Content Type: image/png
+
+Uri: https://www95schwab.z13.web.core.windows.net/style.css
+File Name: C:\Downloaded Web Sites\www95schwab.z13.web.core.windows.net\style.css
+Content Type: text/css
+
